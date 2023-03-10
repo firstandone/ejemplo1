@@ -1,3 +1,7 @@
 plugins {
-    id ''
+    id 'application'
+}
+
+application {
+    mainClass = "Heladeria"
 }
